@@ -1,0 +1,7 @@
+body{
+    background-color: gainsboro;
+}
+
+#meuCanvas{
+    border: 1px solid black;
+}

@@ -1,0 +1,124 @@
+body{
+    background-color: lightgray;
+}
+
+#textotop{
+    color: darkgreen;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    border: solid 2px indigo;
+    font-family: "Times New Roman" sans-serif;
+    background-color: bisque;
+}
+#img01{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+#img02{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+#cabeçalho{
+    color: darkred;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    background-color: lightskyblue;
+}
+
+a{
+    color: darkred;
+    padding: 60px;
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+}
+
+p{
+    font-family: "Times New Roman" , sans-serif;
+    font-size: 20px;
+    color: indigo;
+    text-align: center;
+}
+
+.img {
+    position: relative;
+    top: 10px;
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+    object-fit: cover;
+    justify-content: center;
+}
+
+#tabela{
+    position: relative;
+    top: 10px;
+    left: 650px;
+    width: 30%;
+
+    border: 3px dashed red;
+    text-align: center;
+}
+
+#titulo2{
+    color: red;
+}
+
+#titulo3 {
+    color: red;
+}
+
+.iframe{
+    position: relative;
+    top: 10px;
+    text-align: center;
+    padding: 100px;
+}
+
+.iframe iframe{
+    padding: 50px;
+}
+
+#quadro{
+    color: black;
+    background: yellow;
+    padding: 0px;
+    width: 450px;
+    height: 90px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+footer{
+    position: relative;
+    bottom: 0;
+    background-color: bisque;
+    color: black;
+    width: 100%;
+    font-family: "Comic Sans MS", fantasy;
+    font-size: 15pt;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+}
+
+#img05{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+#img07{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}

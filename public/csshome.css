@@ -1,0 +1,33 @@
+
+*{
+    font-family: Arial;
+}
+
+body{
+    width: 100%;
+}
+
+#title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-title{
+    color: red;
+}
+
+table{
+    margin: 0 auto;
+}
+
+a:hover{
+    color: indianred;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+

@@ -1,0 +1,6 @@
+.fixed{
+    position: fixed;
+    top: 100px;
+    left: 400px;
+    background-color: black;
+}

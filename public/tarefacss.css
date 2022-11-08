@@ -1,0 +1,15 @@
+body{
+    background-color: cadetblue;
+}
+#pos {
+    text-align: center;
+}
+
+#random{
+    background-color: red;
+    color: white;
+}
+
+#value{
+    width: 9%;
+}
